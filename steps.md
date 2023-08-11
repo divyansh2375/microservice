@@ -27,3 +27,6 @@ now add database and sql password in config.json
 npx sequelize db:create after going to src
 --you can see this now in mysql cmd there show databases it is added
 -- we need to add .env and src/config/config.json in gitignore
+we made a read me file and push it to github commit-6 
+--but now some commit remaining and want to add in commit-6 then just git ammend
+git commit --ammend
