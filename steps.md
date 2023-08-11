@@ -13,4 +13,17 @@ folder will not show to usme code likhoge they weill be visible
 Always do commit by commit
 package.json me jake script start = npx nodemon src/index.js
 we should protect enviornment variables dotenv node me he package asani se ho jata he isse
-
+.env
+body parser
+sequalize - easy kr degA Kaam -- its not an orm it if manyy dbms
+sequalize cli 
+mysql2
+msql install 
+npx sequelize init ---folders created
+pg npm
+-- seeder folder means? -- if you want to add dummy data 
+sab folder ko src me kr do
+now add database and sql password in config.json
+npx sequelize db:create after going to src
+--you can see this now in mysql cmd there show databases it is added
+-- we need to add .env and src/config/config.json in gitignore
