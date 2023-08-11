@@ -47,8 +47,15 @@ Once you have added your config db as listed above go to the src folder and exec
 
 
 
+# DB design 
+- Airplane table
+- Flight
+- Airport
+- City
 
-
+-A flight belongs to an airplane  but one airplane can be usued in multiple flilghts
+-A city has smany airports sbut one city belonngsg to manny airports
+-one airport can have many flights but a flight belongs to oone airport  
 
 
 
