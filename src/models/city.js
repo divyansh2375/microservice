@@ -1,5 +1,5 @@
 //we create data base with sequalize create : db ...
-
+//trick humne modal class city init ki fir sequlaize modelname kr diya  kiya
 'use strict';
 const {
   Model

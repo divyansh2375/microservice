@@ -1,6 +1,8 @@
 //ye models sequelize command se aaya tha outside src but inside src kiya gaaya he
 'use strict';
 
+//trick = faspa se pro basan con dubbayega
+
 const fs = require('fs');
 const path = require('path');
 const Sequelize = require('sequelize');
