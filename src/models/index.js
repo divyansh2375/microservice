@@ -1,3 +1,4 @@
+//ye models sequelize command se aaya tha outside src but inside src kiya gaaya he
 'use strict';
 
 const fs = require('fs');

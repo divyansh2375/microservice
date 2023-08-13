@@ -1,3 +1,5 @@
+//we create data base with sequalize create : db ...
+
 'use strict';
 const {
   Model

@@ -9,6 +9,7 @@ const setupAndStartServer = async () =>{
     //create the express object
     const app = express();
     app.use(bodyParser.json());
+    //ab bhi ye postman bhi nahi dikha rha tha uski body me to 
     app.use(bodyParser.urlencoded({extended : true}))
 
 

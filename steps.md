@@ -1,3 +1,6 @@
+//imp videos
+mvc architecture  --abhay redkar 
+ 
 We will be making 1 microservice first - search service
 First i have to install dependency 
 npm init 
@@ -56,9 +59,18 @@ to hum git pull krenge update ho jayengi saari files
  ..run migration update it automatically without pulling it from github this is the best good feature 
  --does not add in mysql becuaswe it gives us second chance to are all the tables correct and do you want update also more
  do you want more changes here
- 
+--sequelize is very helpful 
+npx sequelize db:migrate
+==hume ye dekhna he ki tools kaam kese krte hein detail me baad me seekhh lenge 
+comapny me jab jaroorat hogi
+
+--created repository
 
 
-
+------------------------
+implementing CRUD Api
+--i updated more feautres in city repostiory 
+ex-get city and update city 
+-
 
 
