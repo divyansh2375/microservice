@@ -73,4 +73,6 @@ implementing CRUD Api
 ex-get city and update city 
 -
 
+--> stuck on throw new error
+
 
